@@ -11,7 +11,7 @@ h1 {
   font-family: 'Lobster', cursive;
   color: black;
   text-align: center;  
-  font-size: 30px;
+  font-size: 40px;
   margin: 20px
 
 }
@@ -19,7 +19,7 @@ h3 {
   font-family: 'Lobster', cursive;
   color: black;
   text-align: center;
-  font-size: 40px;
+  font-size: 55px;
   margin: 20px
   
 
@@ -34,7 +34,13 @@ p{
 img {
   border: 3px solid;
   border-radius: 4px;
-  padding: 5px;
+  padding: 1px;
   width: 250px;
-  float: right;
+  float: center;
+  margin: 20px;
+}
+a {
+    font-family: 'Lobster', cursive; 
+  font-size: 40px;
+  margin: 20px
 }
